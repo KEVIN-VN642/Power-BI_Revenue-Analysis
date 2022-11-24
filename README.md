@@ -9,8 +9,8 @@ Used files are CFO Metrics Tracker.xlsx, Customer List (as of FY2021).txt, SSBC 
 # Data Model
 ![Data Model](https://github.com/KEVIN-VN642/Power-BI_Revenue-Analysis/blob/master/Data%20Model.png)
 # Summary Results
-### 1. Quarterly Sales
+## 1. Quarterly Sales
 ![Quarterly Sales](https://github.com/KEVIN-VN642/Power-BI_Revenue-Analysis/blob/master/Quarterly%20Sales.png)
-### 2. Revenue Analysis
+## 2. Revenue Analysis
 
 ![Revenue Analysis](https://github.com/KEVIN-VN642/Power-BI_Revenue-Analysis/blob/master/Product%20Analysis.png)
